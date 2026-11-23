@@ -1,0 +1,50 @@
+3:"$Sreact.fragment"
+4:"/beautybrand/_next/static/chunks/1ua2kfq9s-me6.js"
+5:I[39756,["$4"],"default"]
+6:I[37457,["$4"],"default"]
+d:"/beautybrand/_next/static/chunks/1s3gu_h0ct8m_.js"
+e:"/beautybrand/_next/static/chunks/3fcdmw3exq2qh.js"
+f:"/beautybrand/_next/static/chunks/34le3yj9p2-cb.js"
+10:"/beautybrand/_next/static/chunks/2ktkrj05mvzrs.js"
+11:"/beautybrand/_next/static/chunks/05cjughgf9jkr.js"
+12:"/beautybrand/_next/static/chunks/3tfzb7bhjb0i_.js"
+13:I[22016,["$d","$e","$f","$10","$11","$12"],""]
+14:I[36613,["$d","$e","$f","$10","$11","$12"],"Gallery"]
+15:I[36613,["$d","$e","$f","$10","$11","$12"],"LiveText"]
+16:I[61451,["$d","$e","$f","$10","$11","$12"],"SalesNote"]
+17:I[36613,["$d","$e","$f","$10","$11","$12"],"BuyBox"]
+23:"ViewportBoundary"
+24:I[97367,["$4"],"$23"]
+25:"MetadataBoundary"
+26:I[97367,["$4"],"$25"]
+27:"$Sreact.suspense"
+28:I[27201,["$4"],"IconMark"]
+8:X
+8:C
+9:X
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[["$","div",null,{"className":"shell pt-5","children":[["$","$L13",null,{"href":"/uz/c/sets","className":"inline-flex items-center gap-1.5 py-2 text-sm text-cocoa hover:text-ink","children":[["$","svg",null,{"width":"16","height":"16","viewBox":"0 0 24 24","aria-hidden":true,"children":["$","path",null,{"d":"M15 6l-6 6 6 6","fill":"none","stroke":"currentColor","strokeWidth":"1.8","strokeLinecap":"round"}]}],"Katalog: To‘plamlar"]}],["$","div",null,{"className":"mt-3 grid gap-6 font-product md:grid-cols-[minmax(0,19rem)_minmax(0,1fr)] md:gap-8 xl:grid-cols-[minmax(0,21rem)_minmax(0,1fr)_minmax(0,24rem)] xl:gap-10","children":[["$","div",null,{"className":"mx-auto w-full max-w-[21rem] md:mx-0","children":["$","$L14",null,{"images":["/beautybrand/products/charlotte-tilbury-hollywood-beauty-wonderland-1.jpg","/beautybrand/products/charlotte-tilbury-hollywood-beauty-wonderland-2.jpg"],"alt":"Charlotte Tilbury Hollywood Beauty Wonderland Advent Calendar","slug":"charlotte-tilbury-hollywood-beauty-wonderland"}]}],["$","div",null,{"className":"min-w-0 md:pt-1","children":[["$","p",null,{"className":"text-[0.78rem] font-semibold uppercase tracking-[0.12em] text-cocoa","children":"Charlotte Tilbury"}],["$","h1",null,{"className":"mt-1.5 text-[1.65rem] font-semibold leading-[1.08] tracking-[-0.03em] text-balance sm:text-[2rem]","children":["$","$L15",null,{"slug":"charlotte-tilbury-hollywood-beauty-wonderland","field":"name","lang":"uz","fallback":"Hollywood Beauty Wonderland Advent Calendar"}]}],["$","$L16",null,{"slug":"charlotte-tilbury-hollywood-beauty-wonderland","lang":"uz"}],["$","p",null,{"className":"mt-3 max-w-[60ch] text-[0.95rem] leading-relaxed","children":["$","$L15",null,{"slug":"charlotte-tilbury-hollywood-beauty-wonderland","field":"description","lang":"uz","fallback":"Charlotte’s Hollywood Beauty Wonderland advent-kalendari."}]}],["$","$L17",null,{"slug":"charlotte-tilbury-hollywood-beauty-wonderland","lang":"uz"}],["$","ul",null,{"className":"mt-5 flex flex-wrap gap-x-5 gap-y-1.5 border-t border-line pt-4 text-[0.82rem] text-cocoa","children":[["$","li",null,{"children":"Faqat original"}],["$","li",null,{"children":"Toshkentdagi ikki do‘kondan olib ketish"}],["$","li",null,{"children":["$","a",null,{"href":"https://t.me/beauty_branduz/16072","target":"_blank","rel":"noopener","className":"underline underline-offset-4 hover:text-ink","children":"Kanaldagi post"}]}]]}]]}],["$","div",null,{"className":"min-w-0 md:col-span-2 xl:col-span-1","children":["$","section",null,{"aria-labelledby":"details-title","className":"rounded-2xl border border-line bg-white/55 p-4 font-product sm:p-5","children":[["$","h2",null,{"id":"details-title","className":"text-[0.72rem] font-semibold uppercase tracking-[0.14em] text-cocoa","children":"Mahsulot haqida"}],[["$","ul",null,{"className":"mt-3 space-y-1.5 text-[0.88rem]","children":[["$","li","Charlotte Tilbury bayram advent-kalendari",{"className":"flex gap-2.5 leading-snug","children":[["$","span",null,{"aria-hidden":true,"className":"mt-[0.45em] size-1.5 shrink-0 rotate-45 bg-gold"}],["$","span",null,{"children":"Charlotte Tilbury bayram advent-kalendari"}]]}],["$","li","Har bir eshikcha ortida — brendning mashhur mahsuloti mini yoki to‘liq hajmda",{"className":"flex gap-2.5 leading-snug","children":[["$","span",null,{"aria-hidden":true,"className":"mt-[0.45em] size-1.5 shrink-0 rotate-45 bg-gold"}],["$","span",null,{"children":"Har bir eshikcha ortida — brendning mashhur mahsuloti mini yoki to‘liq hajmda"}]]}],["$","li","Parvarish va makiyaj: lab bo‘yog‘i va tushdan teri vositalarigacha",{"className":"flex gap-2.5 leading-snug","children":[["$","span",null,{"aria-hidden":true,"className":"mt-[0.45em] size-1.5 shrink-0 rotate-45 bg-gold"}],"$L18"]}],"$L19"]}],"$L1a","$L1b","$L1c","$L1d"]]}]}]]}],"$L1e","$L1f"]}],["$L20"],"$L21"]}],"p":"$@22","v":null,"s":"$9"}}]]
+a:[["children",{"s":{"n":"slug","t":"d","k":"charlotte-tilbury-hollywood-beauty-wonderland","s":[]},"h":96,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@b","v":"$8","s":"$9"},"c":"$Qc"}]]
+2:[["children",{"s":"p","h":64,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+1:[["children",{"s":{"n":"lang","t":"d","k":"uz","s":["admin"]},"h":48,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":80,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L24",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f9f7f0"}]]}],["$","$L26",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$27",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Charlotte Tilbury Hollywood Beauty Wonderland Advent Calendar — BeautyBrand Uz"}],["$","meta","1",{"name":"description","content":"Charlotte’s Hollywood Beauty Wonderland advent-kalendari."}],["$","link","2",{"rel":"canonical","href":"https://beautybrand.uz/uz/p/charlotte-tilbury-hollywood-beauty-wonderland/"}],["$","link","3",{"rel":"alternate","hrefLang":"ru","href":"https://beautybrand.uz/ru/p/charlotte-tilbury-hollywood-beauty-wonderland/"}],["$","link","4",{"rel":"alternate","hrefLang":"uz","href":"https://beautybrand.uz/uz/p/charlotte-tilbury-hollywood-beauty-wonderland/"}],["$","meta","5",{"property":"og:title","content":"Charlotte Tilbury Hollywood Beauty Wonderland Advent Calendar — BeautyBrand Uz"}],["$","meta","6",{"property":"og:description","content":"Charlotte’s Hollywood Beauty Wonderland advent-kalendari."}],["$","meta","7",{"property":"og:image","content":"https://beautybrand.uz/beautybrand/products/charlotte-tilbury-hollywood-beauty-wonderland-1.jpg"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"Charlotte Tilbury Hollywood Beauty Wonderland Advent Calendar — BeautyBrand Uz"}],["$","meta","10",{"name":"twitter:description","content":"Charlotte’s Hollywood Beauty Wonderland advent-kalendari."}],["$","meta","11",{"name":"twitter:image","content":"https://beautybrand.uz/beautybrand/products/charlotte-tilbury-hollywood-beauty-wonderland-1.jpg"}],["$","link","12",{"rel":"icon","href":"/beautybrand/icon.png?icon.0ng92n8cgt3s3.png","sizes":"192x192","type":"image/png"}],["$","link","13",{"rel":"apple-touch-icon","href":"/beautybrand/apple-icon.png?apple-icon.129ixg9fh3-n3.png","sizes":"180x180","type":"image/png"}],["$","$L28","14",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@29","v":null,"s":"$9"}},"a":"$@2a","u":"$@2b","b":"fV59-HmJYt2yA3iY0qRCJ"}
+2c:I[13619,["$d","$e","$f","$10","$11","$12"],"ProductReviews"]
+2d:I[97367,["$4"],"OutletBoundary"]
+18:["$","span",null,{"children":"Parvarish va makiyaj: lab bo‘yog‘i va tushdan teri vositalarigacha"}]
+19:["$","li","Hashamatli qadoqdagi tayyor sovg‘a",{"className":"flex gap-2.5 leading-snug","children":[["$","span",null,{"aria-hidden":true,"className":"mt-[0.45em] size-1.5 shrink-0 rotate-45 bg-gold"}],["$","span",null,{"children":"Hashamatli qadoqdagi tayyor sovg‘a"}]]}]
+1a:["$","p",null,{"className":"mt-4 text-[0.68rem] font-semibold uppercase tracking-[0.14em] text-cocoa","children":"Qanday qo‘llash"}]
+1b:["$","p",null,{"className":"mt-1 text-[0.88rem] leading-snug","children":"Bayramgacha har kuni bitta eshikcha oching — yoki hammasini birdan, hech kimga aytmaymiz."}]
+1c:["$","p",null,{"className":"mt-3 text-[0.68rem] font-semibold uppercase tracking-[0.14em] text-cocoa","children":"Kimga mos"}]
+1d:["$","p",null,{"className":"mt-1 text-[0.88rem] leading-snug","children":"Dugona, ona, sevgilingiz uchun Yangi yilga eng yaxshi sovg‘a."}]
+1e:["$","$L2c",null,{"slug":"charlotte-tilbury-hollywood-beauty-wonderland","productName":"Charlotte Tilbury Hollywood Beauty Wonderland Advent Calendar","lang":"uz"}]
+1f:["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Product\",\"name\":\"Charlotte Tilbury Hollywood Beauty Wonderland Advent Calendar\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Charlotte Tilbury\"},\"image\":[\"https://beautybrand.uz/beautybrand/products/charlotte-tilbury-hollywood-beauty-wonderland-1.jpg\",\"https://beautybrand.uz/beautybrand/products/charlotte-tilbury-hollywood-beauty-wonderland-2.jpg\"],\"description\":\"Charlotte’s Hollywood Beauty Wonderland advent-kalendari.\",\"offers\":{\"@type\":\"Offer\",\"price\":3510000,\"priceCurrency\":\"UZS\",\"availability\":\"https://schema.org/InStock\",\"url\":\"https://beautybrand.uz/uz/p/charlotte-tilbury-hollywood-beauty-wonderland\"}}"}}]
+20:["$","script","script-0",{"src":"/beautybrand/_next/static/chunks/3tfzb7bhjb0i_.js","async":true}]
+21:["$","$L2d",null,{"children":["$","$27",null,{"name":"Next.MetadataOutlet","children":"$@2e"}]}]
+2b:true
+9:300
+2e:null
+9:C
+2a:0
+b:"$undefined"
+7:"$undefined"
+29:"$undefined"
+22:"$undefined"

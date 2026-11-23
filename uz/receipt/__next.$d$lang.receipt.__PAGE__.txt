@@ -1,0 +1,33 @@
+3:"$Sreact.fragment"
+4:"/beautybrand/_next/static/chunks/1ua2kfq9s-me6.js"
+5:I[39756,["$4"],"default"]
+6:I[37457,["$4"],"default"]
+b:"/beautybrand/_next/static/chunks/1s3gu_h0ct8m_.js"
+c:"/beautybrand/_next/static/chunks/3fcdmw3exq2qh.js"
+d:"/beautybrand/_next/static/chunks/34le3yj9p2-cb.js"
+e:"/beautybrand/_next/static/chunks/2ktkrj05mvzrs.js"
+f:"/beautybrand/_next/static/chunks/05cjughgf9jkr.js"
+10:"/beautybrand/_next/static/chunks/0de2xwdt91nwo.js"
+11:I[67681,["$b","$c","$d","$e","$f","$10"],"ReceiptView"]
+12:I[97367,["$4"],"OutletBoundary"]
+13:"$Sreact.suspense"
+16:"ViewportBoundary"
+17:I[97367,["$4"],"$16"]
+18:"MetadataBoundary"
+19:I[97367,["$4"],"$18"]
+1a:I[27201,["$4"],"IconMark"]
+8:X
+8:C
+9:X
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[["$","div",null,{"className":"shell pt-10","children":["$","$L11",null,{"lang":"uz"}]}],[["$","script","script-0",{"src":"/beautybrand/_next/static/chunks/0de2xwdt91nwo.js","async":true}]],["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]]}],"p":"$@15","v":null,"s":"$9"}}]]
+2:[["children",{"s":"receipt","h":64,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+1:[["children",{"s":{"n":"lang","t":"d","k":"uz","s":["admin"]},"h":48,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":80,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L17",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f9f7f0"}]]}],["$","$L19",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$13",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Чек — BeautyBrand Uz"}],["$","meta","1",{"name":"description","content":"Butun dunyodan brend kosmetika: Dior, Tom Ford, Charlotte Tilbury, Kérastase va boshqalar. Faqat original, hammasi mavjud. Buyurtma Telegramda."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://beautybrand.uz/uz/"}],["$","link","4",{"rel":"alternate","hrefLang":"ru","href":"https://beautybrand.uz/ru/"}],["$","link","5",{"rel":"alternate","hrefLang":"uz","href":"https://beautybrand.uz/uz/"}],["$","meta","6",{"property":"og:title","content":"Чек — BeautyBrand Uz"}],["$","meta","7",{"property":"og:description","content":"Butun dunyodan brend kosmetika: Dior, Tom Ford, Charlotte Tilbury, Kérastase va boshqalar. Faqat original, hammasi mavjud. Buyurtma Telegramda."}],["$","meta","8",{"property":"og:site_name","content":"BeautyBrand Uz"}],["$","meta","9",{"property":"og:locale","content":"uz_UZ"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary"}],["$","meta","12",{"name":"twitter:title","content":"Чек — BeautyBrand Uz"}],["$","meta","13",{"name":"twitter:description","content":"Butun dunyodan brend kosmetika: Dior, Tom Ford, Charlotte Tilbury, Kérastase va boshqalar. Faqat original, hammasi mavjud. Buyurtma Telegramda."}],["$","link","14",{"rel":"icon","href":"/beautybrand/icon.png?icon.0ng92n8cgt3s3.png","sizes":"192x192","type":"image/png"}],["$","link","15",{"rel":"apple-touch-icon","href":"/beautybrand/apple-icon.png?apple-icon.129ixg9fh3-n3.png","sizes":"180x180","type":"image/png"}],["$","$L1a","16",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1b","v":null,"s":"$9"}},"a":"$@1c","u":"$@1d","b":"fV59-HmJYt2yA3iY0qRCJ"}
+14:null
+1d:true
+9:300
+9:C
+1c:0
+7:"$undefined"
+1b:"$undefined"
+15:"$undefined"
